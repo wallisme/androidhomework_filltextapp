@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FillTextApp</string>
+
+    <string name="prompt_text">Choose one</string>
+</resources>
